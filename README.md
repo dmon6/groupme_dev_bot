@@ -42,6 +42,8 @@ git push heroku master
 
 ## Enviornmental Variables heroku
 - heroku config:set GROUPME_BOT_ID=a390e53b51a05e53b9551dedeb
+- heroku config:set BUNGIE_API=c6dbf4f6925c4b359be901b06611f228
+
 
 ## Example usage to post message
 ### bash/curl
